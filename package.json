@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  "dependencies": {
+    "connect": "*",
+    "serve-static": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lxhuang0903/httpserver.git"
